@@ -1,6 +1,6 @@
 export default function handler(req, res) {
   res.status(200).json({
-    {
+    
   "Builders": {
     "Corporation": [
       {
@@ -2478,6 +2478,6 @@ export default function handler(req, res) {
         ]
       }
     ]
-  }
+  
 }
 });
